@@ -24,11 +24,7 @@ his dedicated work.
 
 <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" />
 
-# I'am currently working on
-
-<a href="https://github.com/aiman99aleryany/airvnv.git">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=airvnv&theme=transparent"/>
-</a>
+# Projects I previously made
 
 <a href="https://github.com/aiman99aleryany/stripeV2.git">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=stripeV2&theme=transparent"/>
@@ -36,6 +32,12 @@ his dedicated work.
 
 <a href="https://github.com/aiman99aleryany/pancakeswap_V1.0.0.git">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=pancakeswap_V1.0.0&theme=transparent"/>
+</a>
+
+# Projects I'am currently working on
+
+<a href="https://github.com/aiman99aleryany/airvnv.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=airvnv&theme=transparent"/>
 </a>
 
 <a href="https://github.com/aiman99aleryany/Project-CoolZone.git">
