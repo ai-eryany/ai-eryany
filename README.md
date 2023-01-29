@@ -20,7 +20,7 @@ communities which led me to this right moment of becoming a
 pioneer software developer who will leave his mark through
 his dedicated work.
 
-# 🌱 I’m currently learning
+# 🌱 I'm currently learning
 
 <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" />
 
