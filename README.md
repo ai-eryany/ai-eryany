@@ -38,6 +38,10 @@ his dedicated work.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=pancakeswap_V1.0.0&theme=transparent"/>
 </a>
 
+<a href="https://github.com/aiman99aleryany/Project-CoolZone.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=Project-CoolZone&theme=transparent"/>
+</a>
+
 # My Editors
 
 - When it Comes to editors, I have a taste
