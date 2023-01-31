@@ -88,6 +88,12 @@ his dedicated work.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aiman99aleryany&show_icons=true&theme=transparent)
 
+
+# Visitors
+<img src"https://profile-counter.glitch.me/aiman99aleryany/count.svg" />
+
+
+
 ## Connect With me
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aiman99/)
