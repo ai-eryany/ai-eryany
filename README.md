@@ -24,7 +24,7 @@ his dedicated work.
 
 <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" />
 
-# Projects I previously made
+# Projects I previously made, And still updating
 
 <a href="https://github.com/aiman99aleryany/stripeV2.git">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=stripeV2&theme=transparent"/>
@@ -43,6 +43,15 @@ his dedicated work.
 <a href="https://github.com/aiman99aleryany/Project-CoolZone.git">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=Project-CoolZone&theme=transparent"/>
 </a>
+
+<a href="https://github.com/aiman99aleryany/pancakeswap2.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=pancakeswap2&theme=transparent"/>
+</a>
+
+<a href="https://github.com/aiman99aleryany/millionaire-quiz.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=millionaire-quiz&theme=transparent"/>
+</a>
+
 
 # My Editors
 
