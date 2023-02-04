@@ -52,14 +52,9 @@ his dedicated work.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=millionaire-quiz-frontend&theme=transparent"/>
 </a>
 
-<a href="https://github.com/aiman99aleryany/millionaire-quiz-backend.git">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=millionaire-quiz-backend&theme=transparent"/>
-</a>
-
 <a href="https://github.com/aiman99aleryany/teletube_frontend.git">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=teletube_frontend&theme=transparent"/>
 </a>
-
 
 <a href="https://github.com/aiman99aleryany/teletube_backend.git">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=teletube_backend&theme=transparent"/>
