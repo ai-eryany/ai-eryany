@@ -36,8 +36,8 @@ his dedicated work.
 
 # Projects I'am currently working on
 
-<a href="https://github.com/aiman99aleryany/airvnv.git">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=airvnv&theme=transparent"/>
+<a href="https://github.com/aiman99aleryany/airvnv-frontend.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=airvnv-frontend&theme=transparent"/>
 </a>
 
 <a href="https://github.com/aiman99aleryany/Project-CoolZone.git">
