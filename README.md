@@ -22,7 +22,7 @@ his dedicated work.
 
 # 🌱 I'm currently learning
 
-<img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" />
+<img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 
 # Projects I previously made, And still updating
 
@@ -38,72 +38,38 @@ his dedicated work.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=airvnv&theme=transparent"/>
 </a>
 
-# Projects I'am currently working on
+# My Editor
 
-<a href="https://github.com/aiman99aleryany/airvnv-frontend.git">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=airvnv-frontend&theme=transparent"/>
-</a>
-
-<a href="https://github.com/aiman99aleryany/Project-CoolZone.git">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=Project-CoolZone&theme=transparent"/>
-</a>
-
-<a href="https://github.com/aiman99aleryany/millionaire-quiz-frontend.git">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=millionaire-quiz-frontend&theme=transparent"/>
-</a>
-
-
-
-# My Editors
-
-- When it Comes to editors, I have a taste
+- When it Comes to writing code, I use vim with tmux
 
   <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 
   you can check my `.vimrc` here:
 
-<a href="https://github.com/aiman99aleryany/my-First-vimrc.git">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=my-first-vimrc&theme=transparent"/>
+<a href="https://github.com/aiman99aleryany/my-env.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman99aleryany&repo=my-env&theme=transparent"/>
 </a>
-
-- I use This one just for Team Developments, I still have Vim plugin in it tho.
-
-    <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 # My Operating System
 
-<img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-
-# Libraries I use
-
-<img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+          
 
 # Languages I use
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-# Languages I am familiar with
-
-<img height=90 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
 # VCS I use
 
 <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-
-# Other Technologies I use
-
-<img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" />
 
 # Account Status
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aiman99aleryany&show_icons=true&theme=transparent)
 
-
 # Visitors
 
 <img src="https://profile-counter.glitch.me/aiman99aleryany/count.svg" />
-
-
 
 ## Connect With me
 
