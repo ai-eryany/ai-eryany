@@ -52,7 +52,7 @@ his dedicated work.
 
 # My Operating System
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           
 
 # Languages I use
