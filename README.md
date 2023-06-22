@@ -6,17 +6,7 @@ I am a Full-Stack Developer
 
 # Welcome to my GitHub Account
 
-It has been my utmost passion to establish systems that can
-do wonders. Such systems will not only perform complex tasks
-that human beings would take a long time to succeed in but
-also bring accurate results. I still remember my first childhood 
-memory of building my first software program. I felt the joy of 
-creating something from scratch and I caught fire in coding. 
-From that moment, I delved deeper into learning more about 
-software development and its profound impact on technological
-communities which led me to this right moment of becoming a
-pioneer software developer who will leave his mark through
-his dedicated work.
+Never stop learning
 
 # 🌱 I'm currently learning
 
