@@ -1,8 +1,6 @@
 # Hello There 👋
 
-My name is Aiman Al Eryany
-
-I am a Full-Stack Developer
+My name is Aiman. I am a cancer. I enjoy sunsets, long walks on the beach, and coding.
 
 # Welcome to my GitHub Account
 
