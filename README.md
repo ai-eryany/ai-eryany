@@ -6,7 +6,7 @@ I am a MERN Full-Stack developer on a life journey to understand the purpose of 
 create awesome apps while I am at it.
 
 
-# My Editor
+## My Editor
 When it Comes to writing code, I use vim with tmux
 
   <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
@@ -14,57 +14,60 @@ When it Comes to writing code, I use vim with tmux
 you can check my `.vimrc` here:
 
 <a href="https://github.com/ai-eryany/my-env.git">
-<img height=50 src="https://github-readme-stats.vercel.app/api/pin/?username=ai-eryany&repo=my-env&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ai-eryany&repo=my-env&theme=transparent"/>
 </a>
 
-# My Operating System
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
+## My Operating System
+<img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
 
           
 
-# Programming Languages I use
+## Programming Languages I use
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-# Markup Languages I use
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
-
-
-# Styling Languages I use
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+## Markup Languages I use
+<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
 
 
-# Languages I am currently learning
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+## Styling Languages I use
+<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
 
-# DBMS I use
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+## Languages I am currently learning
+<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" /> <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
 
-# Frontend libraries I use
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+## DBMS I use
+<img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 
 
-# Backend frameworks I use
+
+## Frontend libraries I use
+<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /> <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
+
+
+## Backend frameworks I use
 <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 
 
 
-# Backend libraries I use
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
+## Backend libraries I use
+<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /> <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
 
 
-# Languages I used before
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+## Languages I used before
+<img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
 
-# Frameworks I used before
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+## Frameworks I used before
+<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 
 
 
-# Small projects I previously made
+## Small projects I previously made
 
 <a href="https://github.com/ai-eryany/stripeV2.git">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ai-eryany&repo=stripeV2&theme=transparent"/>
@@ -80,11 +83,11 @@ you can check my `.vimrc` here:
 
 
 
-# Account Status
+## Account Status
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aiman99aleryany&show_icons=true&theme=transparent)
 
-# Visitors
+## Visitors
 
 <img src="https://profile-counter.glitch.me/ai-eryany/count.svg" />
 
