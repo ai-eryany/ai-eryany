@@ -69,12 +69,12 @@ you can check my `.vimrc` here:
 
 ## Small projects I previously made
 
-<a href="https://github.com/ai-eryany/stripeV2.git">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ai-eryany&repo=stripeV2&theme=transparent"/>
+<a href="https://github.com/ai-eryany/stripe.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ai-eryany&repo=stripe&theme=transparent"/>
 </a>
 
-<a href="https://github.com/ai-eryany/pancakeswap_V1.0.0.git">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ai-eryany&repo=pancakeswap_V1.0.0&theme=transparent"/>
+<a href="https://github.com/ai-eryany/pancakeswap.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ai-eryany&repo=pancakeswap&theme=transparent"/>
 </a>
 
 <a href="https://github.com/ai-eryany/airvnv.git">
@@ -85,7 +85,7 @@ you can check my `.vimrc` here:
 
 ## Account Status
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aiman99aleryany&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-eryany&show_icons=true&theme=transparent)
 
 ## Visitors
 
