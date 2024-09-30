@@ -7,14 +7,15 @@ create awesome apps while I am at it.
 
 
 ## My Editor
-When it Comes to writing code, I use vim with tmux
+When it Comes to writing code, I use Vscode with a minimal setup
 
-  <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+  <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
-you can check my `.vimrc` here:
 
-<a href="https://github.com/ai-eryany/my-env.git">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ai-eryany&repo=my-env&theme=transparent"/>
+you can check it here
+
+<a href="https://github.com/ai-eryany/env.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ai-eryany&repo=env&theme=transparent"/>
 </a>
 
 ## My Operating System
