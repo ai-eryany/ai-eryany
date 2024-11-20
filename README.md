@@ -1,10 +1,7 @@
 # Hello There 👋
-My name is Aiman. I am a cancer. I enjoy sunsets, long walks on the beach, and coding.
+Hey, I’m Aiman. I’m a Cancer. I like sunsets, long walks on the beach, and tearing into some hardcore code. Throw in a good mystery to solve, and I’m there. I am trying to understand the purpose of programming and create awesome apps while I am at it.
 
-# Welcome to my GitHub Account
-I am a MERN Full-Stack developer on a life journey to understand the purpose of programming and 
-create awesome apps while I am at it.
-
+## Welcome to my GitHub Account
 
 ## My Editor
 When it Comes to writing code, I use Vscode with a minimal setup
