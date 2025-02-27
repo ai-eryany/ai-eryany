@@ -1,5 +1,8 @@
 # Hello There 👋
-Hey, I’m Aiman. I’m a Cancer. I like sunsets, long walks on the beach, and tearing into some hardcore code. Throw in a good mystery to solve, and I’m there. I am trying to understand the purpose of programming and create awesome apps while I am at it.
+Hey, I’m Aiman. I’m a Cancer. I like sunsets, long walks on the beach, and tearing into some hardcore code. Throw in a good mystery to solve, and I’m there. I am trying to understand the purpose of programming and create awesome apps while I am at it, why? Because I am Batman.
+
+
+There is an easter egg in this intro ☝️. If you find it, you are a legend.
 
 ## Welcome to my GitHub Account
 
