@@ -6,6 +6,9 @@ There is an easter egg in this intro ☝️. If you find it, you are a legend.
 
 ## Welcome to my GitHub Account
 
+Currently working on my <a href="https://www.ai-eryany.dev">portfolio website</a>
+
+
 ## My Editor
 When it Comes to writing code, I use Vscode with a minimal setup
 
